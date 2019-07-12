@@ -10,9 +10,9 @@
 |`Ctrl + W`|現在のタブを閉じる|
 |`Ctrl + Shift + W`|すべてのタブを閉じる|
 |`Ctrl + Tab`|右のタブに移動する|
-|`Ctrl + Page Up`|右のタブに移動する|
+|`Ctrl + Page Up`|〃|
 |`Ctrl + Shift + Tab`|左のタブに移動する|
-|`Ctrl + Page Down`|左のタブに移動する|
+|`Ctrl + Page Down`|〃|
 |`F5`|ページを更新する|
 |`Ctrl + R`|〃|
 |`Ctrl + F`|検索|
